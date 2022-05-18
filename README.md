@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pennsann
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning database, and game development
+- 📫 How to reach me discord magma#0035
